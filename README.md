@@ -4,7 +4,7 @@
 ## 프로젝트 소개 (2021.03.11 ~ 2021.04.06)
 다양한 추천 시스템 이론을 학습하고, Spotify의 추천시스템을 구현하는 것을 목적으로 합니다.
 이에 추천시스템 스터디를 함께 진행하며 실습 경험을 위주로 진행하였습니다.
-![image](https://user-images.githubusercontent.com/87663692/130482467-f7d26e57-2abe-4f6d-9783-3eef171b85a5.png) width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/87663692/130482467-f7d26e57-2abe-4f6d-9783-3eef171b85a5.png" width="200" height="400"/>
 
 ## 팀원 소개
 김도윤, 김창현, 기다연, 임효진, 이나윤
