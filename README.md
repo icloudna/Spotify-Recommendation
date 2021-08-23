@@ -12,7 +12,7 @@
 
 ## 교재 소개
 Python을 이용한 개인화 추천시스템(도서출판청람)
-<img src="https://user-images.githubusercontent.com/87663692/130485877-714a4312-af90-48fe-abfa-baa3438caff4.png" width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/87663692/130485877-714a4312-af90-48fe-abfa-baa3438caff4.png" width="300" height="400"/>
                                                                                                                                          
 ## 데이터 소개
 - 각 노래의 특징을 담은 Dataset
