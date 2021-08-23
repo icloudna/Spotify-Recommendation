@@ -12,8 +12,8 @@
 
 ## 교재 소개
 Python을 이용한 개인화 추천시스템(도서출판청람)
-<img src="https://user-images.githubusercontent.com/87663692/130484953-7c1fb700-961c-49bf-96d6-34f161996db0.png) width="600" height="400"/>
-
+<img src="https://user-images.githubusercontent.com/87663692/130485877-714a4312-af90-48fe-abfa-baa3438caff4.png" width="600" height="400"/>
+                                                                                                                                         
 ## 데이터 소개
 - 각 노래의 특징을 담은 Dataset
 : Acousticness, Danceability, Duration_ms, Energy, Instrumentalness, Key, Liveness, loudness, mode, speechiness, tempo, time_signiture, valence
