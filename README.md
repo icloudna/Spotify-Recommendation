@@ -13,25 +13,24 @@
 ## 교재 소개
 Python을 이용한 개인화 추천시스템(도서출판청람)
 <img src="https://user-images.githubusercontent.com/87663692/130485877-714a4312-af90-48fe-abfa-baa3438caff4.png" width="300" height="400"/>
-                                                                                                                                         
+                                                                                                                   
 ## 데이터 소개
-- 각 노래의 특징을 담은 Dataset
+- 각 노래의 특징을 담은 Dataset (Track_Features.csv)
 : Acousticness, Danceability, Duration_ms, Energy, Instrumentalness, Key, Liveness, loudness, mode, speechiness, tempo, time_signiture, valence
 
 - 각 노래에 수동으로 라벨링한 Dataset (Ratings.csv)
- 긍정(1), 모름(0), 부정(-1) 부여하여 총 29명의 data 확보.
+: 긍정(1), 모름(0), 부정(-1) 부여하여 총 29명의 data 확보.
  
-- 각 노래에 수동으로 라벨링한 User에 대한 부가적인 Dataset (Users.csv)
-- gender(M/W), age, nationality 
+- 각 노래에 수동으로 라벨링한 User에 대한 부가적인 Dataset (User.csv)
+: gender(M/W), age, nationality 
 
 ## 개인적으로 맡았던 Modeling
+- Classification (한 사용자의 음악 트랙에 대한 선호 유무 분류): Lasso, Ridge, Elastic Net
 
+- Recommendation: Coclustering
 
-
-
-
-## 
-
-
-
+## Conclusion
+- 추천시스템 모델의 경우, 사용자 수가 더 많고 음악 트랙이 다양했더라면 더 일반적인 좋은 성능을 얻었을 것 같습니다.
+- User, Track_Features의 추가 활용 방안이 필요합니다.
+(이번 프로젝트에서는 Item-based Recommendation 모델을 구현했기 때문에, User-based 특징도 띄는 모델도 만들어보면 좋을 것 같습니다.)
 
