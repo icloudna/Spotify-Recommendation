@@ -1,5 +1,5 @@
 # Spotify-Recommendation
-<img src="https://user-images.githubusercontent.com/87663692/130484599-9fce212a-1d93-4ff3-b243-c313d96dfe9b.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/87663692/130484599-9fce212a-1d93-4ff3-b243-c313d96dfe9b.png" width="600" height="400"/>
 
 
 ## 프로젝트 소개 (2021.03.11 ~ 2021.04.06)
