@@ -1,6 +1,5 @@
 # Spotify-Recommendation
-<img src="https://user-images.githubusercontent.com/87663692/130484599-9fce212a-1d93-4ff3-b243-c313d96dfe9b.png" width="600" height="400"/>
-
+<img src="https://user-images.githubusercontent.com/87663692/130558207-ea001f58-20e6-46a5-a230-8f87d44503df.png" width="600" height="400"/>
 
 ## 프로젝트 소개 (2021.03.11 ~ 2021.04.06)
 다양한 추천 시스템 이론을 학습하고, Spotify의 추천시스템을 구현하는 것을 목적으로 합니다.
@@ -14,7 +13,7 @@
 ## 교재 소개
 Python을 이용한 개인화 추천시스템(도서출판청람)
 모든 단원을 공부하며, Surprise의 다양한 추천 시스템을 구현해보았습니다.
-<img src="https://user-images.githubusercontent.com/87663692/130485877-714a4312-af90-48fe-abfa-baa3438caff4.png" width="600" height="200"/>
+<img src="https://user-images.githubusercontent.com/87663692/130485877-714a4312-af90-48fe-abfa-baa3438caff4.png" width="200" height="400"/>
                                                                                                                    
 ## 데이터 소개
 - 각 노래의 특징을 담은 Dataset (Track_Features.csv)
