@@ -18,7 +18,7 @@
 ## 교재 소개
 Python을 이용한 개인화 추천시스템(도서출판청람)
 모든 단원을 공부하며, Surprise의 다양한 추천 시스템을 구현해보았습니다.
-<img src="https://user-images.githubusercontent.com/87663692/130485877-714a4312-af90-48fe-abfa-baa3438caff4.png" width="200" height="300"/>
+<img src="https://user-images.githubusercontent.com/87663692/130485877-714a4312-af90-48fe-abfa-baa3438caff4.png" width="200" height="250"/>
                                                                                                                    
 ## 데이터 소개
 - 각 노래의 특징을 담은 Dataset (Track_Features.csv)
