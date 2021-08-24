@@ -5,7 +5,12 @@
 다양한 추천 시스템 이론을 학습하고, Spotify의 추천시스템을 구현하는 것을 목적으로 합니다.
 이에 추천시스템 스터디를 함께 진행하며 실습 경험을 위주로 진행하였습니다.
 
-<img src="https://user-images.githubusercontent.com/87663692/130482467-f7d26e57-2abe-4f6d-9783-3eef171b85a5.png" width="600" height="400"/>
+정기 세션: 화요일 밤 10시 30분~
+- 2021.03.11(목) : 정기 일정 및 계획 설정
+- 2021.03.16(화): 데이터 전처리 완료, Classifier 선택
+- 2021.03.23(화): Classifier 성능 확인
+- 2021.03.30(화): Recommender System 모델 학습 및 선정
+- 2021.04.06(화) : 최종점검
 
 ## 팀원 소개
 김도윤, 김창현, 기다연, 임효진, 이나윤
@@ -13,7 +18,7 @@
 ## 교재 소개
 Python을 이용한 개인화 추천시스템(도서출판청람)
 모든 단원을 공부하며, Surprise의 다양한 추천 시스템을 구현해보았습니다.
-<img src="https://user-images.githubusercontent.com/87663692/130485877-714a4312-af90-48fe-abfa-baa3438caff4.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/87663692/130485877-714a4312-af90-48fe-abfa-baa3438caff4.png" width="200" height="300"/>
                                                                                                                    
 ## 데이터 소개
 - 각 노래의 특징을 담은 Dataset (Track_Features.csv)
