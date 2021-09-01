@@ -1,5 +1,5 @@
 # Spotify-Recommendation
-<img src="https://user-images.githubusercontent.com/87663692/130558207-ea001f58-20e6-46a5-a230-8f87d44503df.png" width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/87663692/130558207-ea001f58-20e6-46a5-a230-8f87d44503df.png" width="600" height="300"/>
 
 ## 프로젝트 소개 (2021.03.11 ~ 2021.04.06)
 다양한 추천 시스템 이론을 학습하고, Spotify의 추천시스템을 구현하는 것을 목적으로 합니다.
