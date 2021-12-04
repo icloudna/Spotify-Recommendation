@@ -42,3 +42,10 @@ Python을 이용한 개인화 추천시스템(도서출판청람)
 - User, Track_Features의 추가 활용 방안이 필요하다.
 (이번 프로젝트에서는 Item-based Recommendation 모델을 구현했기 때문에, User-based 특징도 띄는 모델도 만들어보면 좋을 것 같다.)
 (또한, Track_Features 추천시스템이 음악을 구분하는 기준으로만 사용했는데, 이 외에도 이를 활용할 수 있는 방법이 있을까 고민이 되었다.)
+
+<img src="https://user-images.githubusercontent.com/87663692/144702813-b427848b-89ca-43c6-b1bc-05169d2827c3.png"
+width="200" height="250"/>
+
+<img src="https://user-images.githubusercontent.com/87663692/144702818-ca1015d1-7197-4eeb-8b34-a7cf4cb7d561.png"
+width="200" height="250"/>
+
