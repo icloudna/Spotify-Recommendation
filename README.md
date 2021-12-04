@@ -44,8 +44,8 @@ Python을 이용한 개인화 추천시스템(도서출판청람)
 (또한, Track_Features 추천시스템이 음악을 구분하는 기준으로만 사용했는데, 이 외에도 이를 활용할 수 있는 방법이 있을까 고민이 되었다.)
 
 <img src="https://user-images.githubusercontent.com/87663692/144702813-b427848b-89ca-43c6-b1bc-05169d2827c3.png"
-width="550" height="300"/>
+width="500" height="300"/>
 
 <img src="https://user-images.githubusercontent.com/87663692/144702818-ca1015d1-7197-4eeb-8b34-a7cf4cb7d561.png"
-width="550" height="300"/>
+width="500" height="300"/>
 
